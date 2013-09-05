@@ -1,0 +1,3 @@
+[submodule "copperegg"]
+	path = copperegg
+	url = https://github.com/CopperEgg/chef-copperegg.git
